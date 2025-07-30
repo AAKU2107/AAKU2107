@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aashay Kulkarni — a passionate CS student.<br>I love building clean, performant, and impactful digital solutions.
+Hi, I'm Aashay Kulkarni — a passionate CO student.<br>I love building clean, performant, and impactful digital solutions.
 
 
 ## 🌐 Socials:
